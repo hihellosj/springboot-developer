@@ -55,7 +55,6 @@ create table users (
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files>
       <object connection-id="16da0069-37c0-4c92-938d-8a9aabda520c" object-ref="consoles/Connection" />
-      <object connection-id="16da0069-37c0-4c92-938d-8a9aabda520c" object-ref="consoles/Connection 1" />
     </open-files>
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">

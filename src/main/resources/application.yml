@@ -17,5 +17,5 @@ spring:
               - email
               - profile
 jwt:
-  issuer: ajufresh@gmail.com
+  issuer: sapphire3509@gmail.com
   secret_key: study-springboot
